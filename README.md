@@ -1,2 +1,3 @@
-# cra-v17
-Create React App - Cleaned - v17.0.2
+# Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  **v 17.0.2**

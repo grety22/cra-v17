@@ -1,13 +1,9 @@
 import './App.css';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Start Here ...</h1>
-      </header>
-    </div>
-  );
+    <h1 className="text-3xl font-bold underline text-yellow-300">
+      Hello world!
+    </h1>
+  )
 }
-
-export default App;
